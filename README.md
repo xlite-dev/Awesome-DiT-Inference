@@ -1,4 +1,4 @@
-# 📒Awesome-SD-Inference
+# 📒Awesome-Diffusion-Inference
 <div align='left'>
   <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >
   <img src=https://img.shields.io/github/forks/DefTruth/Awesome-SD-Inference.svg?style=social >
@@ -8,30 +8,30 @@
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
 
-📒A **small** curated list of Awesome **SD/DiT/Diffusion** Inference with **Distributed/Caching/Sampling**. For Awesome LLM Inference, please check 📖[Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social)
+📒A **small** curated list of Awesome **Diffusion** Inference paper with codes. For Awesome LLM Inference, please check 📖[Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social)
 
 ## 🤖Contents
 
-- [📙Awesome SD Inference with Sampling](#Sampling)
-- [📙Awesome SD Inference with Caching](#Caching)
-- [📙Awesome SD Inference with Multi-GPUs](#Distributed)
-- [📙Other Awesome SD Inference Paper with codes](#Others)
+- [📙Awesome Diffusion Inference with Sampling](#Sampling)
+- [📙Awesome Diffusion Inference with Caching](#Caching)
+- [📙Awesome Diffusion Inference with Multi-GPUs](#Distributed)
+- [📙Other Awesome Diffusion Inference Paper with codes](#Others)
 
 
 ## ©️Citations 
 
 ```BibTeX
-@misc{Awesome-SD-Inference@2024,
-  title={Awesome-SD-Inference: A small curated list of Awesome SD/DiT/ViT/Diffusion Inference with Distributed/Caching/Sampling.},
-  url={https://github.com/DefTruth/Awesome-SD-Inference},
-  note={Open-source software available at https://github.com/DefTruth/Awesome-SD-Inference},
+@misc{Awesome-Diffusion-Inference@2024,
+  title={Awesome-Diffusion-Inference: A small curated list of Awesome Diffusion Inference with Distributed/Caching/Sampling.},
+  url={https://github.com/DefTruth/Awesome-Diffusion-Inference},
+  note={Open-source software available at https://github.com/DefTruth/Awesome-Diffusion-Inference},
   author={DefTruth},
   year={2024}
 }
 ```
 
 
-## 📙Awesome SD Inference with Sampling  
+## 📙Awesome Diffusion Inference with Sampling  
 
 <div id="Sampling"></div>  
 
@@ -51,7 +51,7 @@
 |2024.08| 🔥[**StepSaver**] StepSaver: Predicting Minimum Denoising Steps for Diffusion Model Image Generation(@intel) | [[pdf]](https://arxiv.org/pdf/2408.02054) |⚠️|⭐️⭐️ |
 |2024.09| 🔥[**DC-Solver**] DC-Solver: Improving Predictor-Corrector Diffusion Sampler via Dynamic Compensation(@Tsinghua University)| [[pdf]](https://arxiv.org/pdf/2409.03755v1) | [[DC-Solver]](https://github.com/wl-zhao/DC-Solver) ![](https://img.shields.io/github/stars/wl-zhao/DC-Solver.svg?style=social) |⭐️⭐️ | 
 
-## 📙Awesome SD Inference with Caching  
+## 📙Awesome Diffusion Inference with Caching  
 
 <div id="Caching"></div>  
 
@@ -76,7 +76,7 @@
 |2024.04| 🔥🔥[**T-GATE V1**] Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models(@Wentian Zhang etc)|[[pdf]](https://arxiv.org/pdf/2404.02747v1) | [[T-GATE]](https://github.com/HaozheLiu-ST/T-GATE) ![](https://img.shields.io/github/stars/HaozheLiu-ST/T-GATE.svg?style=social)|⭐️⭐️ |
 |2024.04| 🔥🔥[**T-GATE V2**] Faster Diffusion via Temporal Attention Decomposition(@Haozhe Liu etc)|[[pdf]](https://arxiv.org/pdf/2404.02747v2) | [[T-GATE]](https://github.com/HaozheLiu-ST/T-GATE) ![](https://img.shields.io/github/stars/HaozheLiu-ST/T-GATE.svg?style=social)|⭐️⭐️ |
 
-## 📙Awesome SD Distributed Inference with Multi-GPUs
+## 📙Awesome Diffusion Distributed Inference with Multi-GPUs
 
 <div id="Distributed"></div>  
 
@@ -98,7 +98,7 @@
 |2024.06| 🔥🔥[**Clip Parallelism**] Video-Infinity: Distributed Long Video Generation(@nus.edu)|[[pdf]](https://arxiv.org/pdf/2406.16260) | [[Video-Infinity]](https://github.com/Yuanshi9815/Video-Infinity) ![](https://img.shields.io/github/stars/Yuanshi9815/Video-Infinity.svg?style=social)|⭐️⭐️ | 
 |2024.05| 🔥🔥[**FIFO-Diffusion**] FIFO-Diffusion: Generating Infinite Videos from Text without Training(@Seoul National University)|[[pdf]](https://arxiv.org/pdf/2405.11473) |  [[FIFO-Diffusion]](https://github.com/jjihwan/FIFO-Diffusion_public) ![](https://img.shields.io/github/stars/jjihwan/FIFO-Diffusion_public.svg?style=social) |⭐️⭐️ | 
 
-## 📙Other Awesome SD Inference Paper with codes
+## 📙Other Awesome Diffusion Inference Paper with codes
 <div id="Others"></div>  
 
 |Date|Title|Paper|Code|Recom|
