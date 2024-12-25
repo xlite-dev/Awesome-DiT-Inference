@@ -81,6 +81,7 @@
 |2024.11| 🔥🔥[**AdaCache**] Adaptive Caching for Faster Video Generation with Diffusion Transformers(@Meta)|[[pdf]](https://adacache-dit.github.io/clarity/adacache_meta.pdf) | [[AdaCache]](https://github.com/AdaCache-DiT/AdaCache) ![](https://img.shields.io/github/stars/AdaCache-DiT/AdaCache.svg?style=social)|⭐️⭐️ |
 |2024.11| 🔥🔥[**TeaCache**] Timestep Embedding Tells: It’s Time to Cache for Video Diffusion Model(@Alibaba)| [[pdf]](https://arxiv.org/pdf/2411.19108) | [[TeaCache]](https://github.com/LiewFeng/TeaCache) ![](https://img.shields.io/github/stars/LiewFeng/TeaCache.svg?style=social)|⭐️⭐️ |
 |2024.11| 🔥🔥[**LazyDiT**] LazyDiT: Lazy Learning for the Acceleration of Diffusion Transformers(@Adobe Research)|[[pdf]](https://arxiv.org/pdf/2412.12444)| ⚠️|⭐️⭐️ |  
+|2024.11| 🔥🔥[**Ca2-VDM**] Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing(@ZJU)|[[pdf]](https://arxiv.org/pdf/2411.16375) | [[CausalCache-VDM]](https://github.com/Dawn-LX/CausalCache-VDM/) ![](https://img.shields.io/github/stars/Dawn-LX/CausalCache-VDM.svg?style=social)|⭐️⭐️ |
 
 ## 📙Awesome Diffusion Distributed Inference with Multi-GPUs
 
