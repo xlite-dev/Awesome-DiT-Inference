@@ -82,6 +82,7 @@
 |2024.11| 🔥🔥[**TeaCache**] Timestep Embedding Tells: It’s Time to Cache for Video Diffusion Model(@Alibaba)| [[pdf]](https://arxiv.org/pdf/2411.19108) | [[TeaCache]](https://github.com/LiewFeng/TeaCache) ![](https://img.shields.io/github/stars/LiewFeng/TeaCache.svg?style=social)|⭐️⭐️ |
 |2024.11| 🔥🔥[**LazyDiT**] LazyDiT: Lazy Learning for the Acceleration of Diffusion Transformers(@Adobe Research)|[[pdf]](https://arxiv.org/pdf/2412.12444)| ⚠️|⭐️⭐️ |  
 |2024.11| 🔥🔥[**Ca2-VDM**] Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing(@ZJU)|[[pdf]](https://arxiv.org/pdf/2411.16375) | [[CausalCache-VDM]](https://github.com/Dawn-LX/CausalCache-VDM/) ![](https://img.shields.io/github/stars/Dawn-LX/CausalCache-VDM.svg?style=social)|⭐️⭐️ |
+|2024.11| 🔥🔥[**SmoothCache**] SmoothCache: A Universal Inference Acceleration Technique for Diffusion Transformers(@Roblox) | [[pdf]](https://arxiv.org/pdf/2411.10510) | [[SmoothCache]](https://github.com/Roblox/SmoothCache) ![](https://img.shields.io/github/stars/Roblox/SmoothCache.svg?style=social)|⭐️⭐️ |
 
 ## 📙Awesome Diffusion Distributed Inference with Multi-GPUs
 
