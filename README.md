@@ -77,7 +77,8 @@
 |2024.04| 🔥🔥[**T-GATE V1**] Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models(@Wentian Zhang etc)|[[pdf]](https://arxiv.org/pdf/2404.02747v1) | [[T-GATE]](https://github.com/HaozheLiu-ST/T-GATE) ![](https://img.shields.io/github/stars/HaozheLiu-ST/T-GATE.svg?style=social)|⭐️⭐️ |
 |2024.04| 🔥🔥[**T-GATE V2**] Faster Diffusion via Temporal Attention Decomposition(@Haozhe Liu etc)|[[pdf]](https://arxiv.org/pdf/2404.02747v2) | [[T-GATE]](https://github.com/HaozheLiu-ST/T-GATE) ![](https://img.shields.io/github/stars/HaozheLiu-ST/T-GATE.svg?style=social)|⭐️⭐️ |
 |2024.06| 🔥[**DiTFastAttn**] DiTFastAttn: Attention Compression for Diffusion Transformer Models(@Zhihang Yuan etc)|[[pdf]](https://arxiv.org/pdf/2406.08552) | [[DiTFastAttn]](https://github.com/thu-nics/DiTFastAttn) ![](https://img.shields.io/github/stars/thu-nics/DiTFastAttn.svg?style=social)|⭐️⭐️ |
-
+|2024.11| 🔥🔥[**AdaCache**] Adaptive Caching for Faster Video Generation with Diffusion Transformers(@Meta)|[[pdf]](https://adacache-dit.github.io/clarity/adacache_meta.pdf) | [[AdaCache]](https://github.com/AdaCache-DiT/AdaCache) ![](https://img.shields.io/github/stars/AdaCache-DiT/AdaCache.svg?style=social)|⭐️⭐️ |
+ 
 ## 📙Awesome Diffusion Distributed Inference with Multi-GPUs
 
 <div id="Distributed"></div>  
