@@ -88,6 +88,7 @@
 |2024.10| 🔥🔥[**ToCa**] ToCa: Accelerating Diffusion Transformers with Token-wise Feature Caching(@SJTU)|[[pdf]](https://arxiv.org/pdf/2410.05317) | [[ToCa]](https://github.com/Shenyi-Z/ToCa) ![](https://img.shields.io/github/stars/Shenyi-Z/ToCa.svg?style=social)|⭐️⭐️ |
 |2024.11| 🔥🔥[**SkipCache**] Accelerating Vision Diffusion Transformers with Skip Branches(@SJTU)|[[pdf]](https://arxiv.org/pdf/2411.17616) | [[Skip-DiT]](https://github.com/OpenSparseLLMs/Skip-DiT) ![](https://img.shields.io/github/stars/OpenSparseLLMs/Skip-DiT.svg?style=social)|⭐️⭐️ |
 |2024.12| 🔥🔥[**DuCa**] Accelerating Diffusion Transformers with Dual Feature Caching(@SJTU)|[[pdf]](https://arxiv.org/pdf/2412.18911) | [[DuCa]](https://github.com/Shenyi-Z/DuCa) ![](https://img.shields.io/github/stars/Shenyi-Z/DuCa.svg?style=social)|⭐️⭐️ |
+|2025.01| 🔥🔥[**FBCache**] Fastest HunyuanVideo Inference with Context Parallelism and First Block Cache on NVIDIA L20 GPUs(@chengzeyi)| [[docs]](https://github.com/chengzeyi/ParaAttention/blob/main/doc/fastest_hunyuan_video.md) | [[ParaAttention]](https://github.com/chengzeyi/ParaAttention) ![](https://img.shields.io/github/stars/chengzeyi/ParaAttention.svg?style=social)|⭐️⭐️ |
 
 ## 📙Awesome Diffusion Distributed Inference with Multi-GPUs
 
