@@ -126,6 +126,7 @@
 |2024.08| 🔥[**TFM-PTQ**] Temporal Feature Matters: A Framework for Diffusion Model Quantization(@SenseTime)|[[pdf]](https://arxiv.org/pdf/2407.19547)  |⚠️|⭐️⭐️ |
 |2024.08| 🔥[**Diffusion-RWKV**] Diffusion-RWKV: Scaling RWKV-Like Architectures for Diffusion Models(@Zhengcong Fei)|[[pdf]](https://arxiv.org/pdf/2404.04478) | [[Diffusion-RWKV]](https://github.com/feizc/Diffusion-RWKV) ![](https://img.shields.io/github/stars/feizc/Diffusion-RWKV.svg?style=social)|⭐️⭐️ |
 |2024.09| 🔥[**LinFusion**] LINFUSION: 1 GPU, 1 MINUTE, 16K IMAGE(@NUS)|[[pdf]](https://arxiv.org/pdf/2409.02097) | [[LinFusion]](https://github.com/Huage001/LinFusion) ![](https://img.shields.io/github/stars/Huage001/LinFusion.svg?style=social)|⭐️⭐️ |
+|2024.11| 🔥🔥[**SVDQuant**] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models|[[pdf]](https://arxiv.org/pdf/2411.05007) | [[nunchaku]](https://github.com/mit-han-lab/nunchaku) ![](https://img.shields.io/github/stars/mit-han-lab/nunchaku.svg?style=social)|⭐️⭐️ |
 
 ## ©️License  
 
