@@ -1,5 +1,8 @@
-![image](https://github.com/user-attachments/assets/5f9dfe28-88e5-4707-87a9-556fe8629e22)
 
+<div align='center'>
+  <img src=https://github.com/user-attachments/assets/decc861e-fe77-4eb7-aacf-7d27b6430e54 width=300px>
+ </div>   
+ 
 <div align='center'>
   <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >
   <img src=https://img.shields.io/github/forks/DefTruth/Awesome-SD-Inference.svg?style=social >
