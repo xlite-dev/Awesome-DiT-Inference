@@ -1,7 +1,7 @@
 
 <div align='center'>
-  <img src=https://github.com/user-attachments/assets/decc861e-fe77-4eb7-aacf-7d27b6430e54 width=300px>
- </div>   
+  <img src=https://github.com/user-attachments/assets/decc861e-fe77-4eb7-aacf-7d27b6430e54 width=200px>
+</div>   
  
 <div align='center'>
   <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >
