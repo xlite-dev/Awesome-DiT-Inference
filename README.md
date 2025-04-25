@@ -93,6 +93,7 @@
 |2025.01| 🔥🔥[**FBCache**] Fastest HunyuanVideo Inference with Context Parallelism and First Block Cache on NVIDIA L20 GPUs(@chengzeyi)| [[docs]](https://github.com/chengzeyi/ParaAttention/blob/main/doc/fastest_hunyuan_video.md) | [[ParaAttention]](https://github.com/chengzeyi/ParaAttention) ![](https://img.shields.io/github/stars/chengzeyi/ParaAttention.svg?style=social)|⭐️⭐️ |
 |2025.01| 🔥🔥[**FlexCache**] FlexCache: Flexible Approximate Cache System for Video Diffusion(@University of Waterloo)| [[pdf]](https://arxiv.org/pdf/2501.04012) | ⚠️|⭐️⭐️ |  
 |2025.01| 🔥🔥[**Token Pruning**] Token Pruning for Caching Better: 9× Acceleration on Stable Diffusion for Free(@SJTU) | [[pdf]](https://arxiv.org/pdf/2501.00375) | [[DaTo]](https://github.com/EvelynZhang-epiclab/DaTo) ![](https://img.shields.io/github/stars/EvelynZhang-epiclab/DaTo.svg?style=social)|⭐️⭐️ |
+|2025.04| 🔥🔥[**AB-Cache**] AB-Cache: Training-Free Acceleration of Diffusion Models via Adams-Bashforth Cached Feature Reuse(@USTC) |  [[pdf]](https://arxiv.org/pdf/2504.10540) | ⚠️|⭐️⭐️ |  
 
 ## 📙Awesome Diffusion Distributed Inference with Multi-GPUs
 
