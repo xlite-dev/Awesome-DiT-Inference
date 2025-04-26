@@ -26,9 +26,9 @@
 ```BibTeX
 @misc{Awesome-Diffusion-Inference@2024,
   title={Awesome-Diffusion-Inference: A small curated list of Awesome Diffusion Inference with Distributed/Caching/Sampling.},
-  url={https://github.com/DefTruth/Awesome-Diffusion-Inference},
-  note={Open-source software available at https://github.com/DefTruth/Awesome-Diffusion-Inference},
-  author={DefTruth},
+  url={https://github.com/xlite-dev/Awesome-Diffusion-Inference},
+  note={Open-source software available at https://github.com/xlite-dev/Awesome-Diffusion-Inference},
+  author={xlite-dev},
   year={2024}
 }
 ```
