@@ -5,8 +5,8 @@
  
 <div align='center'>
   <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >
-  <img src=https://img.shields.io/github/forks/DefTruth/Awesome-SD-Inference.svg?style=social >
-  <img src=https://img.shields.io/github/stars/DefTruth/Awesome-SD-Inference.svg?style=social >
+  <img src=https://img.shields.io/github/forks/xlite-dev/Awesome-Diffusion-Inference.svg?style=social >
+  <img src=https://img.shields.io/github/stars/xlite-dev/Awesome-Diffusion-Inference.svg?style=social >
   <img src=https://img.shields.io/badge/Release-v0.5-brightgreen.svg >
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
@@ -15,10 +15,10 @@
 
 ## 🤖Contents
 
-- [📙Awesome Diffusion Inference with Sampling](#Sampling)
-- [📙Awesome Diffusion Inference with Caching](#Caching)
-- [📙Awesome Diffusion Inference with Multi-GPUs](#Distributed)
-- [📙Other Awesome Diffusion Inference Paper with codes](#Others)
+- [📙Sampling](#Sampling)
+- [📙Caching](#Caching)
+- [📙Multi-GPUs](#Distributed)
+- [📙Quantization](#Quantization)
 
 
 ## ©️Citations 
@@ -34,7 +34,7 @@
 ```
 
 
-## 📙Awesome Diffusion Inference with Sampling  
+## 📙 Sampling  
 
 <div id="Sampling"></div>  
 
@@ -54,7 +54,7 @@
 |2024.08| 🔥[**StepSaver**] StepSaver: Predicting Minimum Denoising Steps for Diffusion Model Image Generation(@intel) | [[pdf]](https://arxiv.org/pdf/2408.02054) |⚠️|⭐️⭐️ |
 |2024.09| 🔥[**DC-Solver**] DC-Solver: Improving Predictor-Corrector Diffusion Sampler via Dynamic Compensation(@Tsinghua University)| [[pdf]](https://arxiv.org/pdf/2409.03755v1) | [[DC-Solver]](https://github.com/wl-zhao/DC-Solver) ![](https://img.shields.io/github/stars/wl-zhao/DC-Solver.svg?style=social) |⭐️⭐️ | 
 
-## 📙Awesome Diffusion Inference with Caching  
+## 📙 Caching  
 
 <div id="Caching"></div>  
 
@@ -95,7 +95,7 @@
 |2025.01| 🔥🔥[**Token Pruning**] Token Pruning for Caching Better: 9× Acceleration on Stable Diffusion for Free(@SJTU) | [[pdf]](https://arxiv.org/pdf/2501.00375) | [[DaTo]](https://github.com/EvelynZhang-epiclab/DaTo) ![](https://img.shields.io/github/stars/EvelynZhang-epiclab/DaTo.svg?style=social)|⭐️⭐️ |
 |2025.04| 🔥🔥[**AB-Cache**] AB-Cache: Training-Free Acceleration of Diffusion Models via Adams-Bashforth Cached Feature Reuse(@USTC) |  [[pdf]](https://arxiv.org/pdf/2504.10540) | ⚠️|⭐️⭐️ |  
 
-## 📙Awesome Diffusion Distributed Inference with Multi-GPUs
+## 📙 Multi-GPUs
 
 <div id="Distributed"></div>  
 
@@ -116,9 +116,10 @@
 |2024.05 | 🔥🔥[**TensorRT-LLM SDXL**] SDXL Distributed Inference with TensorRT-LLM and synchronous comm(@Zars19) | [[pdf]](https://arxiv.org/abs/2402.19481) | [[SDXL-TensorRT-LLM]](https://github.com/NVIDIA/TensorRT-LLM/pull/1514) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social)| ⭐️⭐️ | 
 |2024.06| 🔥🔥[**Clip Parallelism**] Video-Infinity: Distributed Long Video Generation(@nus.edu)|[[pdf]](https://arxiv.org/pdf/2406.16260) | [[Video-Infinity]](https://github.com/Yuanshi9815/Video-Infinity) ![](https://img.shields.io/github/stars/Yuanshi9815/Video-Infinity.svg?style=social)|⭐️⭐️ | 
 |2024.05| 🔥🔥[**FIFO-Diffusion**] FIFO-Diffusion: Generating Infinite Videos from Text without Training(@Seoul National University)|[[pdf]](https://arxiv.org/pdf/2405.11473) |  [[FIFO-Diffusion]](https://github.com/jjihwan/FIFO-Diffusion_public) ![](https://img.shields.io/github/stars/jjihwan/FIFO-Diffusion_public.svg?style=social) |⭐️⭐️ | 
+|2025.01| 🔥🔥[**ParaAttention**] Context parallel attention that accelerates DiT model inference with dynamic caching(@chengzeyi)| [[docs]](https://github.com/chengzeyi/ParaAttention) | [[ParaAttention]](https://github.com/chengzeyi/ParaAttention) ![](https://img.shields.io/github/stars/chengzeyi/ParaAttention.svg?style=social)|⭐️⭐️ |
 
-## 📙Other Awesome Diffusion Inference Paper with codes
-<div id="Others"></div>  
+## 📙 Quantization
+<div id="Quantization"></div>  
 
 |Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|   
@@ -130,6 +131,9 @@
 |2024.08| 🔥[**Diffusion-RWKV**] Diffusion-RWKV: Scaling RWKV-Like Architectures for Diffusion Models(@Zhengcong Fei)|[[pdf]](https://arxiv.org/pdf/2404.04478) | [[Diffusion-RWKV]](https://github.com/feizc/Diffusion-RWKV) ![](https://img.shields.io/github/stars/feizc/Diffusion-RWKV.svg?style=social)|⭐️⭐️ |
 |2024.09| 🔥[**LinFusion**] LINFUSION: 1 GPU, 1 MINUTE, 16K IMAGE(@NUS)|[[pdf]](https://arxiv.org/pdf/2409.02097) | [[LinFusion]](https://github.com/Huage001/LinFusion) ![](https://img.shields.io/github/stars/Huage001/LinFusion.svg?style=social)|⭐️⭐️ |
 |2024.11| 🔥🔥[**SVDQuant**] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models|[[pdf]](https://arxiv.org/pdf/2411.05007) | [[nunchaku]](https://github.com/mit-han-lab/nunchaku) ![](https://img.shields.io/github/stars/mit-han-lab/nunchaku.svg?style=social)|⭐️⭐️ |
+|2024.10|🔥🔥[**SageAttention**] SAGEATTENTION: ACCURATE 8-BIT ATTENTION FOR PLUG-AND-PLAY INFERENCE ACCELERATION(@thu-ml)|[[pdf]](https://arxiv.org/pdf/2410.02367)|[[SageAttention]](https://github.com/thu-ml/SageAttention) ![](https://img.shields.io/github/stars/thu-ml/SageAttention) | ⭐️⭐️ |
+|2024.11|🔥🔥[**SageAttention-2**] SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization(@thu-ml)|[[pdf]](https://arxiv.org/pdf/2411.10958)|[[SageAttention]](https://github.com/thu-ml/SageAttention) ![](https://img.shields.io/github/stars/thu-ml/SageAttention) | ⭐️⭐️ |
+|2025.03|🔥🔥[**SpargeAttention**] SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference(@thu-ml)|[[pdf]](https://arxiv.org/pdf/2502.18137)|[[SpargeAttn]](https://github.com/thu-ml/SpargeAttn) ![](https://img.shields.io/github/stars/thu-ml/SpargeAttn) | ⭐️⭐️ |
 
 ## ©️License  
 
@@ -140,11 +144,11 @@ GNU General Public License v3.0
 Welcome to star & submit a PR to this repo! 
 
 <div align='center'>
-<a href="https://star-history.com/#xlite-dev/Awesome-SD-Inference&Date">
+<a href="https://star-history.com/#xlite-dev/Awesome-Diffusion-Inference&Date">
   <picture align='center'>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xlite-dev/Awesome-SD-Inference&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xlite-dev/Awesome-SD-Inference&type=Date" />
-    <img width="350" height="250" alt="Star History Chart" src="https://api.star-history.com/svg?repos=xlite-dev/Awesome-SD-Inference&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xlite-dev/Awesome-Diffusion-Inference&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xlite-dev/Awesome-Diffusion-Inference&type=Date" />
+    <img width="350" height="250" alt="Star History Chart" src="https://api.star-history.com/svg?repos=xlite-dev/Awesome-Diffusion-Inference&type=Date" />
   </picture>
 </a>
 </div>
