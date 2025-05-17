@@ -94,7 +94,7 @@
 |2025.01| 🔥🔥[**FlexCache**] FlexCache: Flexible Approximate Cache System for Video Diffusion(@University of Waterloo)| [[pdf]](https://arxiv.org/pdf/2501.04012) | ⚠️|⭐️⭐️ |  
 |2025.01| 🔥🔥[**Token Pruning**] Token Pruning for Caching Better: 9× Acceleration on Stable Diffusion for Free(@SJTU) | [[pdf]](https://arxiv.org/pdf/2501.00375) | [[DaTo]](https://github.com/EvelynZhang-epiclab/DaTo) ![](https://img.shields.io/github/stars/EvelynZhang-epiclab/DaTo.svg?style=social)|⭐️⭐️ |
 |2025.04| 🔥🔥[**AB-Cache**] AB-Cache: Training-Free Acceleration of Diffusion Models via Adams-Bashforth Cached Feature Reuse(@USTC) |  [[pdf]](https://arxiv.org/pdf/2504.10540) | ⚠️|⭐️⭐️ |  
-|2025.03| 🔥🔥[**DiTFastAttnV2**] DiTFastAttnV2: Head-wise Attention Compression for Multi-Modality Diffusion Transformers(@Infinigence AI)|[[pdf]](https://arxiv.org/pdf/2406.08552) | [[DiTFastAttn]](https://github.com/thu-nics/DiTFastAttn) ![](https://img.shields.io/github/stars/thu-nics/DiTFastAttn.svg?style=social)|⭐️⭐️ |
+|2025.03| 🔥🔥[**DiTFastAttnV2**] DiTFastAttnV2: Head-wise Attention Compression for Multi-Modality Diffusion Transformers(@Infinigence AI)|[[pdf]](https://arxiv.org/pdf/2503.22796) | [[DiTFastAttn]](https://github.com/thu-nics/DiTFastAttn) ![](https://img.shields.io/github/stars/thu-nics/DiTFastAttn.svg?style=social)|⭐️⭐️ |
 |2025.04| 🔥🔥[**Increment-Calibrated Cache**] Accelerating Diffusion Transformer via Increment-Calibrated Caching with Channel-Aware Singular Value Decomposition(@PKU)|[[pdf]](https://arxiv.org/pdf/2505.05829) | [[icc]](https://github.com/ccccczzy/icc) ![](https://img.shields.io/github/stars/ccccczzy/icc.svg?style=social)|⭐️⭐️ |
 
 ## 📙 Multi-GPUs
