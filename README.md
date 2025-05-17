@@ -5,8 +5,8 @@
  
 <div align='center'>
   <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >
-  <img src=https://img.shields.io/github/forks/xlite-dev/Awesome-Diffusion-Inference.svg?style=social >
-  <img src=https://img.shields.io/github/stars/xlite-dev/Awesome-Diffusion-Inference.svg?style=social >
+  <img src=https://img.shields.io/github/forks/xlite-dev/Awesome-DiT-Inference.svg?style=social >
+  <img src=https://img.shields.io/github/stars/xlite-dev/Awesome-DiT-Inference.svg?style=social >
   <img src=https://img.shields.io/badge/Release-v0.5-brightgreen.svg >
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
@@ -24,10 +24,10 @@
 ## ©️Citations 
 
 ```BibTeX
-@misc{Awesome-Diffusion-Inference@2024,
-  title={Awesome-Diffusion-Inference: A small curated list of Awesome Diffusion Inference with Distributed/Caching/Sampling.},
-  url={https://github.com/xlite-dev/Awesome-Diffusion-Inference},
-  note={Open-source software available at https://github.com/xlite-dev/Awesome-Diffusion-Inference},
+@misc{Awesome-DiT-Inference@2024,
+  title={Awesome-DiT-Inference: A small curated list of Awesome Diffusion Inference with Distributed/Caching/Sampling.},
+  url={https://github.com/xlite-dev/Awesome-DiT-Inference},
+  note={Open-source software available at https://github.com/xlite-dev/Awesome-DiT-Inference},
   author={xlite-dev},
   year={2024}
 }
@@ -147,11 +147,11 @@ GNU General Public License v3.0
 Welcome to star & submit a PR to this repo! 
 
 <div align='center'>
-<a href="https://star-history.com/#xlite-dev/Awesome-Diffusion-Inference&Date">
+<a href="https://star-history.com/#xlite-dev/Awesome-DiT-Inference&Date">
   <picture align='center'>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xlite-dev/Awesome-Diffusion-Inference&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xlite-dev/Awesome-Diffusion-Inference&type=Date" />
-    <img width="350" height="250" alt="Star History Chart" src="https://api.star-history.com/svg?repos=xlite-dev/Awesome-Diffusion-Inference&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xlite-dev/Awesome-DiT-Inference&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xlite-dev/Awesome-DiT-Inference&type=Date" />
+    <img width="350" height="250" alt="Star History Chart" src="https://api.star-history.com/svg?repos=xlite-dev/Awesome-DiT-Inference&type=Date" />
   </picture>
 </a>
 </div>
