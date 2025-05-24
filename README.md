@@ -138,6 +138,7 @@
 |2024.10|🔥🔥[**SageAttention**] SAGEATTENTION: ACCURATE 8-BIT ATTENTION FOR PLUG-AND-PLAY INFERENCE ACCELERATION(@thu-ml)|[[pdf]](https://arxiv.org/pdf/2410.02367)|[[SageAttention]](https://github.com/thu-ml/SageAttention) ![](https://img.shields.io/github/stars/thu-ml/SageAttention) | ⭐️⭐️ |
 |2024.11|🔥🔥[**SageAttention-2**] SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization(@thu-ml)|[[pdf]](https://arxiv.org/pdf/2411.10958)|[[SageAttention]](https://github.com/thu-ml/SageAttention) ![](https://img.shields.io/github/stars/thu-ml/SageAttention) | ⭐️⭐️ |
 |2025.03|🔥🔥[**SpargeAttention**] SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference(@thu-ml)|[[pdf]](https://arxiv.org/pdf/2502.18137)|[[SpargeAttn]](https://github.com/thu-ml/SpargeAttn) ![](https://img.shields.io/github/stars/thu-ml/SpargeAttn) | ⭐️⭐️ |
+|2025.05|🔥🔥[**SageAttention-3**] SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-bit Training(@thu-ml)|[[pdf]](https://arxiv.org/pdf/2505.11594)|[[SageAttention]](https://github.com/thu-ml/SageAttention) ![](https://img.shields.io/github/stars/thu-ml/SageAttention) | ⭐️⭐️ |
 
 ## ©️License  
 
