@@ -96,7 +96,7 @@
 |2025.04| 🔥🔥[**AB-Cache**] AB-Cache: Training-Free Acceleration of Diffusion Models via Adams-Bashforth Cached Feature Reuse(@USTC) |  [[pdf]](https://arxiv.org/pdf/2504.10540) | ⚠️|⭐️⭐️ |  
 |2025.03| 🔥🔥[**DiTFastAttnV2**] DiTFastAttnV2: Head-wise Attention Compression for Multi-Modality Diffusion Transformers(@Infinigence AI)|[[pdf]](https://arxiv.org/pdf/2503.22796) | [[DiTFastAttn]](https://github.com/thu-nics/DiTFastAttn) ![](https://img.shields.io/github/stars/thu-nics/DiTFastAttn.svg?style=social)|⭐️⭐️ |
 |2025.04| 🔥🔥[**Increment-Calibrated Cache**] Accelerating Diffusion Transformer via Increment-Calibrated Caching with Channel-Aware Singular Value Decomposition(@PKU)|[[pdf]](https://arxiv.org/pdf/2505.05829) | [[icc]](https://github.com/ccccczzy/icc) ![](https://img.shields.io/github/stars/ccccczzy/icc.svg?style=social)|⭐️⭐️ |
-|2025.05| 🔥🔥[**FastCache**] FastCache: Fast Caching for Diffusion Transformer Through Learnable Linear Approximation(@yale)| [[pdf]](https://arxiv.org/pdf/2505.20353) | [[FastCache-xDiT]](https://github.com/NoakLiu/FastCache-xDiT) ![](https://github.com/NoakLiu/FastCache-xDiT.svg?style=social)|⭐️⭐️ |
+|2025.05| 🔥🔥[**FastCache**] FastCache: Fast Caching for Diffusion Transformer Through Learnable Linear Approximation(@yale)| [[pdf]](https://arxiv.org/pdf/2505.20353) | [[FastCache-xDiT]](https://github.com/NoakLiu/FastCache-xDiT) ![](https://img.shields.io/github/stars/NoakLiu/FastCache-xDiT.svg?style=social)|⭐️⭐️ |
 
 ## 📙 Multi-GPUs
 
