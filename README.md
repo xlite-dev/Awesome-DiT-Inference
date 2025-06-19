@@ -26,15 +26,16 @@
 
 - [📙Sampling](#Sampling)
 - [📙Caching](#Caching)
-- [📙Multi-GPUs](#Distributed)
+- [📙Parallelism](#Parallelism)
 - [📙Quantization](#Quantization)
+- [📙Attention](#Attention)
 
 
 ## ©️Citations 
 
 ```BibTeX
 @misc{Awesome-DiT-Inference@2024,
-  title={Awesome-DiT-Inference: A small curated list of Awesome Diffusion Inference with Distributed/Caching/Sampling.},
+  title={Awesome-DiT-Inference: A small curated list of Awesome Diffusion Inference.},
   url={https://github.com/xlite-dev/Awesome-DiT-Inference},
   note={Open-source software available at https://github.com/xlite-dev/Awesome-DiT-Inference},
   author={xlite-dev},
@@ -106,11 +107,12 @@
 |2025.03| 🔥🔥[**DiTFastAttnV2**] DiTFastAttnV2: Head-wise Attention Compression for Multi-Modality Diffusion Transformers(@Infinigence AI)|[[pdf]](https://arxiv.org/pdf/2503.22796) | [[DiTFastAttn]](https://github.com/thu-nics/DiTFastAttn) ![](https://img.shields.io/github/stars/thu-nics/DiTFastAttn.svg?style=social)|⭐️⭐️ |
 |2025.04| 🔥🔥[**Increment-Calibrated Cache**] Accelerating Diffusion Transformer via Increment-Calibrated Caching with Channel-Aware Singular Value Decomposition(@PKU)|[[pdf]](https://arxiv.org/pdf/2505.05829) | [[icc]](https://github.com/ccccczzy/icc) ![](https://img.shields.io/github/stars/ccccczzy/icc.svg?style=social)|⭐️⭐️ |
 |2025.05| 🔥🔥[**FastCache**] FastCache: Fast Caching for Diffusion Transformer Through Learnable Linear Approximation(@yale)| [[pdf]](https://arxiv.org/pdf/2505.20353) | [[FastCache-xDiT]](https://github.com/NoakLiu/FastCache-xDiT) ![](https://img.shields.io/github/stars/NoakLiu/FastCache-xDiT.svg?style=social)|⭐️⭐️ |
-|2025.06| 🔥🔥[**DBCache**] DBCache: A Training-free UNet-style Cache Acceleration for Diffusion Transformers(@vipshop) | [[docs]](https://github.com/vipshop/cache-dit) | [[cache-dit]](https://github.com/vipshop/cache-dit) ![](https://img.shields.io/github/stars/vipshop/cache-dit.svg?style=social)|⭐️⭐️ |
+|2025.06| 🔥🔥[**DBCache**] DBCache: Dual Block Caching for Diffusion Transformers(@vipshop) | [[docs]](https://github.com/vipshop/cache-dit) | [[cache-dit]](https://github.com/vipshop/cache-dit) ![](https://img.shields.io/github/stars/vipshop/cache-dit.svg?style=social)|⭐️⭐️ |
+|2025.06| 🔥🔥[**DBPrune**] DBPrune: Dynamic Block Prune with Residual Caching(@vipshop) | [[docs]](https://github.com/vipshop/cache-dit) | [[cache-dit]](https://github.com/vipshop/cache-dit) ![](https://img.shields.io/github/stars/vipshop/cache-dit.svg?style=social)|⭐️⭐️ |
 
-## 📙 Multi-GPUs
+## 📙 Parallelism
 
-<div id="Distributed"></div>  
+<div id="Parallelism"></div>  
 
 - **UNet Based: Displaced Patch parallelism (DistriFusion)**
 
@@ -131,8 +133,8 @@
 |2024.05| 🔥🔥[**FIFO-Diffusion**] FIFO-Diffusion: Generating Infinite Videos from Text without Training(@Seoul National University)|[[pdf]](https://arxiv.org/pdf/2405.11473) |  [[FIFO-Diffusion]](https://github.com/jjihwan/FIFO-Diffusion_public) ![](https://img.shields.io/github/stars/jjihwan/FIFO-Diffusion_public.svg?style=social) |⭐️⭐️ | 
 |2025.01| 🔥🔥[**ParaAttention**] Context parallel attention that accelerates DiT model inference with dynamic caching(@chengzeyi)| [[docs]](https://github.com/chengzeyi/ParaAttention) | [[ParaAttention]](https://github.com/chengzeyi/ParaAttention) ![](https://img.shields.io/github/stars/chengzeyi/ParaAttention.svg?style=social)|⭐️⭐️ |
 
-## 📙 Quantization
-<div id="Quantization"></div>  
+## 📙 Attention
+<div id="Attention"></div>  
 
 |Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|   
@@ -146,6 +148,12 @@
 |2024.08| 🔥[**Diffusion-RWKV**] Diffusion-RWKV: Scaling RWKV-Like Architectures for Diffusion Models(@Zhengcong Fei)|[[pdf]](https://arxiv.org/pdf/2404.04478) | [[Diffusion-RWKV]](https://github.com/feizc/Diffusion-RWKV) ![](https://img.shields.io/github/stars/feizc/Diffusion-RWKV.svg?style=social)|⭐️⭐️ |
 |2024.09| 🔥[**LinFusion**] LINFUSION: 1 GPU, 1 MINUTE, 16K IMAGE(@NUS)|[[pdf]](https://arxiv.org/pdf/2409.02097) | [[LinFusion]](https://github.com/Huage001/LinFusion) ![](https://img.shields.io/github/stars/Huage001/LinFusion.svg?style=social)|⭐️⭐️ |
 |2024.11| 🔥🔥[**SVDQuant**] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models|[[pdf]](https://arxiv.org/pdf/2411.05007) | [[nunchaku]](https://github.com/mit-han-lab/nunchaku) ![](https://img.shields.io/github/stars/mit-han-lab/nunchaku.svg?style=social)|⭐️⭐️ |
+
+## 📙 Quantization
+<div id="Quantization"></div>  
+
+|Date|Title|Paper|Code|Recom|
+|:---:|:---:|:---:|:---:|:---:| 
 |2024.10|🔥🔥[**SageAttention**] SAGEATTENTION: ACCURATE 8-BIT ATTENTION FOR PLUG-AND-PLAY INFERENCE ACCELERATION(@thu-ml)|[[pdf]](https://arxiv.org/pdf/2410.02367)|[[SageAttention]](https://github.com/thu-ml/SageAttention) ![](https://img.shields.io/github/stars/thu-ml/SageAttention) | ⭐️⭐️ |
 |2024.11|🔥🔥[**SageAttention-2**] SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization(@thu-ml)|[[pdf]](https://arxiv.org/pdf/2411.10958)|[[SageAttention]](https://github.com/thu-ml/SageAttention) ![](https://img.shields.io/github/stars/thu-ml/SageAttention) | ⭐️⭐️ |
 |2025.03|🔥🔥[**SpargeAttention**] SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference(@thu-ml)|[[pdf]](https://arxiv.org/pdf/2502.18137)|[[SpargeAttn]](https://github.com/thu-ml/SpargeAttn) ![](https://img.shields.io/github/stars/thu-ml/SpargeAttn) | ⭐️⭐️ |
