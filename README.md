@@ -133,8 +133,8 @@
 |2024.05| 🔥🔥[**FIFO-Diffusion**] FIFO-Diffusion: Generating Infinite Videos from Text without Training(@Seoul National University)|[[pdf]](https://arxiv.org/pdf/2405.11473) |  [[FIFO-Diffusion]](https://github.com/jjihwan/FIFO-Diffusion_public) ![](https://img.shields.io/github/stars/jjihwan/FIFO-Diffusion_public.svg?style=social) |⭐️⭐️ | 
 |2025.01| 🔥🔥[**ParaAttention**] Context parallel attention that accelerates DiT model inference with dynamic caching(@chengzeyi)| [[docs]](https://github.com/chengzeyi/ParaAttention) | [[ParaAttention]](https://github.com/chengzeyi/ParaAttention) ![](https://img.shields.io/github/stars/chengzeyi/ParaAttention.svg?style=social)|⭐️⭐️ |
 
-## 📙 Attention
-<div id="Attention"></div>  
+## 📙 Quantization
+<div id="Quantization"></div>  
 
 |Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|   
@@ -149,8 +149,8 @@
 |2024.09| 🔥[**LinFusion**] LINFUSION: 1 GPU, 1 MINUTE, 16K IMAGE(@NUS)|[[pdf]](https://arxiv.org/pdf/2409.02097) | [[LinFusion]](https://github.com/Huage001/LinFusion) ![](https://img.shields.io/github/stars/Huage001/LinFusion.svg?style=social)|⭐️⭐️ |
 |2024.11| 🔥🔥[**SVDQuant**] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models|[[pdf]](https://arxiv.org/pdf/2411.05007) | [[nunchaku]](https://github.com/mit-han-lab/nunchaku) ![](https://img.shields.io/github/stars/mit-han-lab/nunchaku.svg?style=social)|⭐️⭐️ |
 
-## 📙 Quantization
-<div id="Quantization"></div>  
+## 📙 Attention
+<div id="Attention"></div>  
 
 |Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:| 
