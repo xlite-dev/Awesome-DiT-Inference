@@ -174,11 +174,11 @@ GNU General Public License v3.0
 Welcome to star & submit a PR to this repo! 
 
 <div align='center'>
-<a href="https://star-history.com/#xlite-dev/Awesome-DiT-Inference&Date">
+<a href="https://star-history.com/#xlite-dev/DiT-Infra&Date">
   <picture align='center'>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xlite-dev/Awesome-DiT-Inference&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xlite-dev/Awesome-DiT-Inference&type=Date" />
-    <img width="350" height="250" alt="Star History Chart" src="https://api.star-history.com/svg?repos=xlite-dev/Awesome-DiT-Inference&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xlite-dev/DiT-Infra&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xlite-dev/DiT-Infra&type=Date" />
+    <img width="350" height="250" alt="Star History Chart" src="https://api.star-history.com/svg?repos=xlite-dev/DiT-Infra&type=Date" />
   </picture>
 </a>
 </div>
