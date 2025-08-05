@@ -11,7 +11,7 @@
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
 
-📒A curated list of Awesome **Diffusion** Inference Papers with codes. For Awesome LLM Inference, please check 📖[Awesome-LLM-Inference](https://github.com/xlite-dev/Awesome-LLM-Inference)  ![](https://img.shields.io/github/stars/xlite-dev/Awesome-LLM-Inference.svg?style=social) for more details.
+📒A curated list of Awesome **Diffusion** Inference Papers with codes. For Awesome LLM Inference, please check 📖[LLM-Infra](https://github.com/xlite-dev/LLM-Infra)  ![](https://img.shields.io/github/stars/xlite-dev/LLM-Infra.svg?style=social) for more details.
 
 ## 📖 News 🔥🔥
 <div id="news"></div>
