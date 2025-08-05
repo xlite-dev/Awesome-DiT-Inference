@@ -5,8 +5,8 @@
  
 <div align='center'>
   <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >
-  <img src=https://img.shields.io/github/forks/xlite-dev/Awesome-DiT-Inference.svg?style=social >
-  <img src=https://img.shields.io/github/stars/xlite-dev/Awesome-DiT-Inference.svg?style=social >
+  <img src=https://img.shields.io/github/forks/xlite-dev/DiT-Infra.svg?style=social >
+  <img src=https://img.shields.io/github/stars/xlite-dev/DiT-Infra.svg?style=social >
   <img src=https://img.shields.io/badge/Release-v0.5-brightgreen.svg >
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
@@ -36,10 +36,10 @@
 ## ©️Citations 
 
 ```BibTeX
-@misc{Awesome-DiT-Inference@2024,
-  title={Awesome-DiT-Inference: A small curated list of Awesome Diffusion Inference.},
-  url={https://github.com/xlite-dev/Awesome-DiT-Inference},
-  note={Open-source software available at https://github.com/xlite-dev/Awesome-DiT-Inference},
+@misc{DiT-Infra@2024,
+  title={DiT-Infra: A small curated list of Awesome Diffusion Inference.},
+  url={https://github.com/xlite-dev/DiT-Infra},
+  note={Open-source software available at https://github.com/xlite-dev/DiT-Infra},
   author={xlite-dev},
   year={2024}
 }
