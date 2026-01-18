@@ -134,6 +134,7 @@
 |2024.06| 🔥🔥[**Clip Parallelism**] Video-Infinity: Distributed Long Video Generation(@nus.edu)|[[pdf]](https://arxiv.org/pdf/2406.16260) | [[Video-Infinity]](https://github.com/Yuanshi9815/Video-Infinity) ![](https://img.shields.io/github/stars/Yuanshi9815/Video-Infinity.svg?style=social)|⭐️⭐️ | 
 |2024.05| 🔥🔥[**FIFO-Diffusion**] FIFO-Diffusion: Generating Infinite Videos from Text without Training(@Seoul National University)|[[pdf]](https://arxiv.org/pdf/2405.11473) |  [[FIFO-Diffusion]](https://github.com/jjihwan/FIFO-Diffusion_public) ![](https://img.shields.io/github/stars/jjihwan/FIFO-Diffusion_public.svg?style=social) |⭐️⭐️ | 
 |2025.01| 🔥🔥[**ParaAttention**] Context parallel attention that accelerates DiT model inference with dynamic caching(@chengzeyi)| [[docs]](https://github.com/chengzeyi/ParaAttention) | [[ParaAttention]](https://github.com/chengzeyi/ParaAttention) ![](https://img.shields.io/github/stars/chengzeyi/ParaAttention.svg?style=social)|⭐️⭐️ |
+|2026.01| 🔥🔥[**Cache-DiT**] 🤗A PyTorch-native Inference Engine with Hybrid Cache Acceleration and Parallelism for DiTs.| [[docs]](https://github.com/vipshop/cache-dit) | [[cache-dit]](https://github.com/vipshop/cache-dit) ![](https://img.shields.io/github/stars/vipshop/cache-dit.svg?style=social)|⭐️⭐️ |
 
 ## 📙 Quantization
 <div id="Quantization"></div>  
