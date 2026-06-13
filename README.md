@@ -109,6 +109,7 @@
 |2025.06| 🔥🔥[**DBCache**] DBCache: Dual Block Caching for Diffusion Transformers(@DefTruth, @vipshop, etc) | [[docs]](https://github.com/vipshop/cache-dit) | [[cache-dit]](https://github.com/vipshop/cache-dit) ![](https://img.shields.io/github/stars/vipshop/cache-dit.svg?style=social)|⭐️⭐️ |
 |2025.06| 🔥🔥[**DBPrune**] DBPrune: Dynamic Block Prune with Residual Caching(@DefTruth, @vipshop, etc) | [[docs]](https://github.com/vipshop/cache-dit) | [[cache-dit]](https://github.com/vipshop/cache-dit) ![](https://img.shields.io/github/stars/vipshop/cache-dit.svg?style=social)|⭐️⭐️ |
 |2025.06| 🔥🔥[**BACache**] Block-wise Adaptive Caching for Accelerating Diffusion Policy(@THU) | [[pdf]](https://arxiv.org/pdf/2506.13456) | ⚠️|⭐️⭐️ |  
+|2026.06|🔥🔥[**HiCache++**] No Single Basis Wins: A Cross-Family Study of Diffusion Feature Forecasting and the Limits of Training-Free Basis Selection(@SNU)|[[pdf]](https://doi.org/10.31224/7309) | [[hicache-plus-plus]](https://github.com/Archerkattri/hicache-plus-plus)| |
 
 ## 📙 Parallelism
 
