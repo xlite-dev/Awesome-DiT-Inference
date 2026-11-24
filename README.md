@@ -27,6 +27,7 @@
 - [📙Parallelism](#Parallelism)
 - [📙Quantization](#Quantization)
 - [📙Attention](#Attention)
+- [📙Handbooks](#Handbooks)
 
 
 ## ©️Citations 
@@ -161,6 +162,14 @@
 |2025.03|🔥🔥[**SpargeAttention**] SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference(@thu-ml)|[[pdf]](https://arxiv.org/pdf/2502.18137)|[[SpargeAttn]](https://github.com/thu-ml/SpargeAttn) ![](https://img.shields.io/github/stars/thu-ml/SpargeAttn) | ⭐️⭐️ |
 |2025.05|🔥🔥[**SageAttention-3**] SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-bit Training(@thu-ml)|[[pdf]](https://arxiv.org/pdf/2505.11594)|[[SageAttention]](https://github.com/thu-ml/SageAttention) ![](https://img.shields.io/github/stars/thu-ml/SageAttention) | ⭐️⭐️ |
 |2025.05| 🔥🔥[**DraftAttention**] DraftAttention: Fast Video Diffusion via Low-Resolution Attention Guidance(@Northeastern University) | [[pdf]](https://arxiv.org/pdf/2505.14708)|[[draft-attention]](https://github.com/shawnricecake/draft-attention) ![](https://img.shields.io/github/stars/shawnricecake/draft-attention) | ⭐️⭐️ |
+
+## 📙 Handbooks & Engineering Guides
+
+<div id="Handbooks"></div>
+
+|Date|Title|PDF / Reader|Repo|
+|:---:|:---|:---:|:---:|
+|2026.11|[**DiT Inference Acceleration Handbook (Chinese)**] 63-page engineering handbook on Video DiT (Wan2.2) & Continuous AR-chunk (SolarWM / Self Forcing) inference, SM90 vs SM120/RTX 5090 reproducible CUDA microbenchmarks, plus a 7-page vLLM-Omni & SGLang-Omni companion (@SnowyLumiere)|[[Release v1.0-r9]](https://github.com/snowyLumiere/DiT-Inference-Acceleration/releases/tag/v1.0-r9)|[[DiT-Inference-Acceleration]](https://github.com/snowyLumiere/DiT-Inference-Acceleration) ![](https://img.shields.io/github/stars/snowyLumiere/DiT-Inference-Acceleration.svg?style=social)|
 
 
 ## ©️License  
